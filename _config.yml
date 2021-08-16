@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "project0210/project0210.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "project0210"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Project0210"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Hello? This is Project0210"
   location         : "Somewhere"
   email            :
   links:
