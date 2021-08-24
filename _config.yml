@@ -2,7 +2,7 @@
 title:              "H3LLO"
 description:        "This is project0210"
 author_name:        "project0210" # change this to your name
-logo_url:           https://github.com/project0210/project0210.github.io/blob/master/assets/PROJECT0210_profile.png?raw=true # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://api.github.com/users/project0210 #https://raw.githubusercontent.com/project0210/project0210.github.io/master/assets/PROJECT0210_profile.png # Get it from GitHub API: 
 
 # Site Settings
 url:                https://project0210.github.io # main url
