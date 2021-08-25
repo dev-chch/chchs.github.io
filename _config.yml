@@ -1,7 +1,7 @@
 # Site Info
 title:              "PROJECT0210"
 description:        "This is Project0210"
-author_name:        "0210" # change this to your name
+author_name:        "PROJECT0210" # change this to your name
 logo_url:           https://raw.githubusercontent.com/project0210/project0210.github.io/master/assets/PROJECT0210_profile.png # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
