@@ -5,6 +5,12 @@ title: About
 
 Hello.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+This is Project0210.
+This blog is for my porfolio
 
-**Less is more..**
+I can use
+Wordpress, php, html, css, js, jQuery, MySQL, API
+
+I can Make
+Wordpress Theme, Template, Plugin,
+some Restful API,

@@ -24,8 +24,7 @@ updated: 2020-04-12 00:00
    
 ![koreatools](https://github.com/project0210/project0210.github.io/blob/master/_posts/koreatools/003.png?raw=true){: width="100%" height="auto"}
    
----
-   
+그리고
 이런 것도 만들어 봤었다.
    
 ![koreatools](https://github.com/project0210/project0210.github.io/blob/master/_posts/koreatools/003.png?raw=true){: width="100%" height="auto"}
