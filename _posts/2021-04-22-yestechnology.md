@@ -3,7 +3,7 @@ title: Yestechnology
 updated: 2020-12-19 00:00
 ---
 
-### 예스테크놀로지
+### 예스테크놀러지
   
 #### 작업내역
 - KBoard 스킨 제작
