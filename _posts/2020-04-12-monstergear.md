@@ -1,6 +1,7 @@
 ---
-title: 첫 외주 몬스터 기어
-updated: 2020-10-18 00:00
+title: Monstergear
+category: Plugin custom
+updated: 2020-04-12 00:00
 ---
 
 첫 외주.
