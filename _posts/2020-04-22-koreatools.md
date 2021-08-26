@@ -4,7 +4,7 @@ updated: 2020-04-12 00:00
 ---
 
 ### 코리아툴즈
-  
+    
 #### 작업내역
 - 테마 커스텀마이징
 - 로그인 커스터마이징
@@ -12,9 +12,9 @@ updated: 2020-04-12 00:00
 - KBoard 스킨 제작
 - 닌자 테이블 플러그인 커스터마이징
   
-	첫 테마 커스터마이징  
-	작업 후 수주 연락이 온다고 해서  
-	뿌듯했던 기억  
+	>첫 테마 커스터마이징  
+	>작업 후 수주 연락이 온다고 해서  
+	>뿌듯했던 기억  
   
 	![koreatools](https://github.com/project0210/project0210.github.io/blob/master/_posts/images/koreatools/001.png?raw=true){: width="100%" height="auto"}
   
