@@ -15,4 +15,4 @@ I can make
 Wordpress Theme, Template, Plugin,
 some Restful API,
 
-![seonjinhitech](https://github.com/project0210/project0210.github.io/blob/master/_posts/images/profile/qrcode.png?raw=true){: width="100%" height="auto"}
+![qrcode](https://github.com/project0210/project0210.github.io/blob/master/_posts/images/profile/qrcode.png?raw=true){: width="50%" height="auto"}
