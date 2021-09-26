@@ -21,4 +21,4 @@ updated: 2021-08-20 00:00
   
 	![campustown](https://github.com/project0210/project0210.github.io/blob/master/_posts/images/campustown/004.png?raw=true){: width="100%" height="auto"}
   
-	URL: http://campustown.snu.ac.kr/
+	URL: https://campustown.snu.ac.kr/create-area/reservation-room/
