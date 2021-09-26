@@ -16,4 +16,4 @@ updated: 2021-03-30 00:00
   
 	![lawfirm-minju-program](https://github.com/project0210/project0210.github.io/blob/master/_posts/images/lawfirm-minju-program/002.png?raw=true){: width="100%" height="auto"}
   
-	URL: http://minjulaw01.gabia.io/
+	URL: http://minjulaw.gabia.io/
